@@ -6,6 +6,6 @@ Geospatial_Coordinates_v2.csv<br>
 Geo_Coordinates_Burroughs_etc.csv<br>
 cleansedDataset_foursquareContent_Postcodes.csv<br>
 <br><br>
-Earlier Iused capstone_proj_start.ipynb for starting of the project.
+Earlier I used capstone_proj_start.ipynb for starting of the project.
 <br>
 Patrik Ackell    Data Analyst
